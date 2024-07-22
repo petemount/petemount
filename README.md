@@ -1,7 +1,7 @@
 ## Hi there  my nick is petemount 👋
-[White Gost](/media/WD_My_Passport_5_TB/Bilder/Saved Pictures/Sibiria.jpg)
+[id]: /media/WD_My_Passport_5_TB/Bilder/Saved Pictures/Sibiria.jpg
 
-**petemount/petemount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
