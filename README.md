@@ -1,5 +1,5 @@
 ## Hi there  my nick is petemount 👋
-![Bild](Peter_Martin_Berg_Bewerbungsfoto (Mittel).jpg)
+![Bild](Peter_Martin_Berg_Bewerbungsfoto_mittel.jpg)
 
 
 
